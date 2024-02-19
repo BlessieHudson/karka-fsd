@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+border: dotted rgb(35, 1, 69);
+width: 30%;
+height: 200px;
+/* padding-left: 30px;
+padding-top: 30px;
+padding-right: 30px; */
+padding: 30px;
+}

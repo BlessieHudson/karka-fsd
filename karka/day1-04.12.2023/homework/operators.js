@@ -1,0 +1,24 @@
+var a=5,b=10;
+add=a+b
+sub=b-a
+div=b/a
+mul=a*b
+mod=a%b
+console.log(add)
+console.log(sub)
+console.log(div)
+console.log(mul)
+console.log(mod)
+console.log(a==b)
+console.log(a!=b)
+console.log(a<b)
+console.log(a>b)
+console.log(a<=b)
+console.log(a>=b)
+console.log(a+=b)
+console.log(a-=b)
+console.log(a*=b)
+console.log(a/=b)
+console.log(a%=b)
+console.log(a/b)
+console.log(a-b)

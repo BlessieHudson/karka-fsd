@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    border-radius: 10px solid red;
+    /* background-color: blueviolet; */
+    height: 700px;
+    width: 100%;
+    background:url(https://wallpapers.com/images/hd/maldives-and-sea-holiday-hd-iyidzfb55r4ajji4.jpg);
+    background-size: cover;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center; 
+    justify-content: space-between;
+     justify-content: space-around; 
+}
+.box1{
+    border: 5px solid black;
+    box-shadow: 0px 0px 30px 0px black;
+    border-radius: 10px;
+    background-color: aliceblue;
+    height: 500px;
+    width: 30%;
+    /* display: flex; */
+}
+.img1{
+    margin-left: 200px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.doc1{
+    text-align: center;
+    text-decoration: underline;
+    /* margin-top: 50px; */
+}
+.doc2{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.img2{
+    margin-left: 90px;
+    margin-top: 11px;
+}
+.doc3{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.img3{
+    margin-left: 90px;
+    margin-top: 11px!important;
+    
+
+}
+.doc4{
+    margin-top: 30px;
+    margin-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color: blue;
+}
+.but1{
+    background-color: rgb(212, 73, 156);
+    height: 30px;
+    width: 100px;
+    margin-left: 175px;
+    margin-top: 30px;
+}
+.but2{
+    background-color: rgb(212, 73, 156);
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+   }
+
+.doc5{
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}

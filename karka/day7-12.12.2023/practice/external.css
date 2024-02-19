@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    color: rgb(13, 0, 255);
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 50px;
+}

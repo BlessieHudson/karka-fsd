@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    /* border: 2px solid red; */
+    height: 630px;
+    width: 100%;
+}
+.box1{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+.box2{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 2px;
+    display: inline-block;
+}
+.box3{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    height: 200px;
+    width: 100%;
+    display: inline-block;
+}
+.box4{
+    /* border: 2px solid rgb(242, 6, 6); */
+    background-color: rgb(245, 249, 247);
+    height: 250px;
+    width: 100%;
+    display: inline-block;
+}
+.box41{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 28%;
+    display: inline-block;
+}
+.box42{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 28%;
+    display: inline-block;
+}
+.box43{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 28%;
+    display: inline-block;
+}
+.box5{
+    /* border: 2px solid black; */
+    background-color: aquamarine;
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+}
+.doc1{
+    text-align: center;
+}
+.link1{
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.link2{
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.link3{
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.link4{
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.link5{
+    /* text-align: center; */
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.doc2{
+    text-align: center;
+}
+.doc3{
+    text-align: center;
+}
+.doc4{
+    text-align: center;
+}
+.doc5{
+    text-align: center;
+}

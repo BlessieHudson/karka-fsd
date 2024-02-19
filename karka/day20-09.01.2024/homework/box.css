@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    width: 70%;
+    height: 600px;
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border-radius: 50px 0px 50px 0px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    /* border: solid; */
+    background-color: red;
+    border-radius: 45px 0px 0px 0px;
+}
+.content{
+    width: 100%;
+    height: 400px;
+    /* border: solid; */
+    display: flex;
+    flex-direction: row;
+}
+.cont1{
+    width: 20%;
+    height: 400px;
+    background-color: rgba(137, 43, 226, 0.333);
+    /* border: solid; */
+}
+.cont2{
+    width: 80%;
+    height: 400px;
+    /* border: solid; */
+}
+.c21{
+    width: 100%;
+    height: 100px;
+    /* border: solid; */
+    background-color:rgb(0, 255, 153);
+}
+.c22{
+    width: 100%;
+    height: 150px;
+    background-color: chocolate;
+    display: flex;
+    /* border: solid; */
+}
+.c22a{
+    width: 30%;
+    height: 150px;
+    background-color: rgb(232, 54, 200);
+}
+.c22b{
+    width: 70%;
+    height: 150px;
+    background-color: rgb(224, 28, 188);
+    display: flex;
+    flex-direction: column;
+}
+.c22b1{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(39, 172, 216);
+}
+.c22b2{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(178, 163, 234);
+}
+
+.c23{
+    width: 100%;
+    height: 150px;
+    background-color: chartreuse;
+    display: flex;
+    /* border: solid; */
+}
+.c23a{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(244, 111, 23);
+}
+.c23b{
+    width: 50%;
+    height: 150px;
+    display: flex;
+    background-color: rgb(29, 192, 97);
+}
+.c23b1{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(245, 122, 180);
+}
+.c23b3{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(174, 219, 11);
+}
+.c23c{
+    width: 30%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(244, 111, 23);
+}
+.c23c1{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(10, 237, 25);
+}
+.c23c2{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(78, 23, 244);
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    border-radius: 0px 0px 45px 0px;
+    /* border: solid; */
+}

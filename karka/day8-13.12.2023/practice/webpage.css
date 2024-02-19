@@ -1,0 +1,26 @@
+*{
+    padding: 20;
+    margin: 0;
+}
+.box1{
+    margin-top: 20px;
+    border: 2px solid rgb(56, 13, 245);
+    height: 40px;
+    background-color: rgb(36, 18, 232);
+}
+.doc1{
+    color: aliceblue;
+    text-align: center;
+}
+.doc2{
+    color: rgb(24, 157, 9);
+    margin-top: 15px;
+}
+.doc3{
+    color: rgb(29, 15, 231);
+    margin-top: 10px;
+}
+.doc4{
+    color: rgb(29, 15, 231);
+    margin-top: 10px;
+}
